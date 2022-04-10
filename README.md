@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ashraful Islam
+### Hi there 👋, I'm *Ashraful Islam*
 #### Passionate MERN-Stack Developer
 ![Passionate MERN-Stack Developer](https://res.cloudinary.com/ashraful-islam/image/upload/v1649623442/Social%20Images/MERN-Stack-github-Bannar-Ashraful-Islam_h5ispu.png)
 
@@ -6,7 +6,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML - CSS - JavaScript - TypeScript - Node JS - Express JS - Mongo DB - My SQL - React JS - Bootstrap - Tailwind CSS - Material UI - Ant Design 
 
-- 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about JavaScript & React JS 
 - 📫 How to reach me: contact.ashraful1@gmail.com 
@@ -20,8 +19,6 @@ Skills: HTML - CSS - JavaScript - TypeScript - Node JS - Express JS - Mongo DB -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful2880)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashraful2880&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashraful2880)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ashraful2880)  
 
