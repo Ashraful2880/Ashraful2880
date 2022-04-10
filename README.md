@@ -7,7 +7,7 @@ I am a courteous, enthusiastic, technology lover, And love programming with Java
 ### **Skills: HTML - CSS - JavaScript - TypeScript - Node JS - Express JS - Mongo DB - My SQL - React JS - Bootstrap - Tailwind CSS - Material UI - Ant Design** 
 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about JavaScript & React JS 
+- 💬 Ask me about **JavaScript & React JS**
 - 📫 How to reach me: contact.ashraful1@gmail.com 
 - ⚡ Fun fact: I love to visit and explore the world 
 
