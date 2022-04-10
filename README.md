@@ -4,7 +4,7 @@
 
 I am a courteous, enthusiastic, technology lover, And love programming with JavaScript. My core skill is based on JavaScript and I love to do most things using JavaScript. I love to make the web more open to the world. Now I am working with React JS.
 
-**Skills: HTML - CSS - JavaScript - TypeScript - Node JS - Express JS - Mongo DB - My SQL - React JS - Bootstrap - Tailwind CSS - Material UI - Ant Design** 
+### **Skills: HTML - CSS - JavaScript - TypeScript - Node JS - Express JS - Mongo DB - My SQL - React JS - Bootstrap - Tailwind CSS - Material UI - Ant Design** 
 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about JavaScript & React JS 
