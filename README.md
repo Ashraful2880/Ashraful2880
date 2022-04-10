@@ -6,10 +6,13 @@ I am a courteous, enthusiastic and technology lover, And love programming with J
 
 ### Skills: ✔HTML ✔CSS ✔JavaScript ✔TypeScript ✔Node JS ✔Express JS ✔Mongo DB ✔My SQL ✔React JS ✔Bootstrap - Tailwind CSS ✔Material UI✔ Ant Design
 
--👍 👯 I’m looking to collaborate on GitHub 
--👍 💬 Ask me about JavaScript & React JS 
--👍 📫 How to reach me: contact.ashraful1@gmail.com 
--👍⚡ Fun fact: I love to visit and explore the world 
+👍 👯 I’m looking to collaborate on GitHub 
+<br/>
+👍 💬 Ask me about JavaScript & React JS
+<br/> 
+👍 📫 How to reach me: contact.ashraful1@gmail.com 
+<br/>
+👍⚡ Fun fact: I love to visit and explore the world 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashraful2880)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraful-webdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashrafonline706)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashraful.islam706/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IslamAshraful80)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashrafulislambd.com)  
