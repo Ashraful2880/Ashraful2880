@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/islamashraful80" target="blank"><img src="https://img.shields.io/twitter/follow/islamashraful80?logo=twitter&style=for-the-badge" alt="islamashraful80" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.ashrafulislambd.com/](https://www.ashrafulislambd.com/)
+- 👨‍💻 All of my projects are available at [https://www.ashrafulislambd.com/](https://ashrafulislam.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@contact.ashraful1](https://medium.com/@contact.ashraful1)
 
