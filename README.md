@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/islamashraful80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islamashraful80" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashraful-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraful-webdev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/islam-ashraful1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraful-webdev" height="30" width="40" /></a>
 <a href="https://fb.com/ashrafonline706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafonline706" height="30" width="40" /></a>
 <a href="https://instagram.com/ashraful.islam706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashraful.islam706" height="30" width="40" /></a>
 <a href="https://medium.com/@contact.ashraful1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@contact.ashraful1" height="30" width="40" /></a>
