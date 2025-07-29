@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/islamashraful80" target="blank"><img src="https://img.shields.io/twitter/follow/islamashraful80?logo=twitter&style=for-the-badge" alt="islamashraful80" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.ashrafulislambd.com/](https://ashrafulislam.netlify.app/)
+- 👨‍💻 All of my projects are available at [Visit My Portfolio/](https://ashrafulislam.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@contact.ashraful1](https://medium.com/@contact.ashraful1)
+- 📝 I regularly write articles on [Some Of My Blogs](https://medium.com/@contact.ashraful1)
 
 - 💬 Ask me about **React & JavaScript**
 
 - 📫 How to reach me **contact.ashraful1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12bq3UKz1ss07cdI3jS9DFKOvc-I_e_vM/view](https://drive.google.com/file/d/12bq3UKz1ss07cdI3jS9DFKOvc-I_e_vM/view)
+- 📄 Know about my experiences [My Resume Here]([https://drive.google.com/file/d/12bq3UKz1ss07cdI3jS9DFKOvc-I_e_vM/view](https://drive.google.com/file/d/1GJQ6Y7NC1Skc0VuRxPTGq0SSConU6cXY/view))
 
 - ⚡ Fun fact **I Love to Travel & Explore The World**
 
