@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Ashraful Islam</h1>
 <h3 align="center">
-  MERN Stack Developer <br/>
+  Senior MERN Stack Developer <br/>
   Frontend Engineer (React • Next.js • TypeScript)
 </h3>
 
@@ -25,7 +25,7 @@
 I’m a **professional MERN Stack Developer** with strong expertise in  
 **React, Next.js, and TypeScript**.
 
-I build **scalable, high-performance web applications** with clean architecture, optimized UI, and secure API integrations—focused on real production needs (Fintech, SaaS, data-driven platforms).
+I build **scalable, high-performance web applications** with clean architecture, optimized UI, and secure API integrations for real-world products.
 
 - ✅ Frontend-focused engineer with backend strength  
 - ✅ Production experience with **SSR / SSG / App Router**  
@@ -37,70 +37,115 @@ I build **scalable, high-performance web applications** with clean architecture,
 ## 🛠️ Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>
+  <b>JavaScript</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/>
+  <b>TypeScript</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/>
+  <b>React</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br/>
+  <b>Next.js</b>
+</td>
+<td align="center" width="120">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>
+  <b>Tailwind CSS</b>
+</td>
+</tr>
+</table>
 
-### State Management & UI Architecture
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38"/>
-</p>
+### State Management
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/><br/>
+  <b>Redux Toolkit</b>
+</td>
+</tr>
+</table>
 
-### Backend & APIs
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38"/>
-</p>
+### Backend & Databases
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br/>
+  <b>Node.js</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/><br/>
+  <b>Express.js</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br/>
+  <b>MongoDB</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br/>
+  <b>PostgreSQL</b>
+</td>
+</tr>
+</table>
 
-### DevOps & Engineering Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38"/>
-</p>
+### DevOps & Tools
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br/>
+  <b>Docker</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br/>
+  <b>Git</b>
+</td>
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br/>
+  <b>GitHub</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Projects
-
-All professional & personal projects are available here:  
-🔗 **https://ashrafulislam.netlify.app/**
-
-> Clean code • Real-world features • Production mindset
+🔗 **https://ashrafulislam.netlify.app/**  
+Clean, production-ready real-world applications.
 
 ---
 
-## ✍️ Writing & Blogs
-I occasionally write about development & technology:  
+## ✍️ Writing
 🔗 **https://medium.com/@contact.ashraful1**
 
 ---
 
 ## 📄 Resume
-📄 **View my resume:**  
-https://drive.google.com/file/d/1GJQ6Y7NC1Skc0VuRxPTGq0SSConU6cXY/view
+📄 https://drive.google.com/file/d/1GJQ6Y7NC1Skc0VuRxPTGq0SSConU6cXY/view
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraful2880&show_icons=true" />
-</p>
-
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashraful2880&show_icons=true&theme=default" />
+</td>
+<td align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful2880" />
-</p>
-
-<p align="center">
+</td>
+<td align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful2880&layout=compact" />
-</p>
+</td>
+</tr>
+</table>
+
 
 ---
 
