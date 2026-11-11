@@ -135,19 +135,14 @@ Here are some of the production-grade platforms I've built:
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraful2880&show_icons=true&theme=default" />
-</td>
-<td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashraful2880" />
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraful2880&layout=compact" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashraful2880&show_icons=true&theme=default&hide_border=true" alt="Ashraful's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful2880&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ashraful2880&theme=default&hide_border=true" alt="GitHub Streak" width="98%" />
+</p>
 
 ---
 
