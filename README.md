@@ -53,6 +53,10 @@ I’m a **Senior Frontend & Full-Stack Engineer** with 4+ years of experience bu
   <b>Next.js</b>
 </td>
 <td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/>
+  <b>React Native</b>
+</td>
+<td align="center" width="100">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>
   <b>Tailwind CSS</b>
 </td>
@@ -81,6 +85,10 @@ I’m a **Senior Frontend & Full-Stack Engineer** with 4+ years of experience bu
 <td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br/>
   <b>MongoDB</b>
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40"/><br/>
+  <b>Mongoose</b>
 </td>
 </tr>
 </table>
