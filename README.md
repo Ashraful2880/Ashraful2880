@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+MD+Ashraful+Islam;Senior+Frontend+%26+Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+MD+Ashraful+Islam;Senior+Frontend+%26+Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Fastify+%7C+PostgreSQL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -89,7 +89,7 @@ I’m a **Senior Frontend & Full-Stack Engineer** with 4+ years of experience bu
   <b>MongoDB</b>
 </td>
 <td align="center" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40"/><br/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" width="40"/><br/>
   <b>Mongoose</b>
 </td>
 </tr>
