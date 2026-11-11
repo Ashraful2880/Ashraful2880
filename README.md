@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD Ashraful Islam</h1>
 <h3 align="center">
-  Senior MERN Stack Developer <br/>
-  Frontend Engineer (React • Next.js • TypeScript)
+  Senior Frontend & Full-Stack Engineer <br/>
+  React • Next.js • TypeScript • Fastify • PostgreSQL
 </h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/ashraful-islam/image/upload/v1649623442/Social%20Images/MERN-Stack-github-Bannar-Ashraful-Islam_h5ispu.png" alt="MERN Stack Developer Banner" />
+  <img src="https://res.cloudinary.com/ashraful-islam/image/upload/v1649623442/Social%20Images/MERN-Stack-github-Bannar-Ashraful-Islam_h5ispu.png" alt="Ashraful Islam Banner" />
 </p>
 
 <p align="center">
@@ -22,15 +22,12 @@
 
 ## 👨‍💻 About Me
 
-I’m a **professional MERN Stack Developer** with strong expertise in  
-**React, Next.js, and TypeScript**.
+I’m a **Senior Frontend & Full-Stack Engineer** with 4+ years of experience building production-grade SaaS platforms, fintech tools, and enterprise ERPs.
 
-I build **scalable, high-performance web applications** with clean architecture, optimized UI, and secure API integrations for real-world products.
-
-- ✅ Frontend-focused engineer with backend strength  
-- ✅ Production experience with **SSR / SSG / App Router**  
-- ✅ Clean code, performance & system-thinking mindset  
-- 🌍 Based in **Bangladesh**, available for **Remote work**
+- 🚀 Founder of **Madmind Digitals**, where I built **ByShelp** (a multi-tenant Cloud ERP).
+- ✅ Specialized in **React, Next.js (App Router), TypeScript**, and **Fastify/PostgreSQL**.
+- ✅ Expert in optimizing Web Performance (Core Web Vitals) and building Real-Time systems (WebSockets, WebRTC).
+- 🌍 Based in **Dhaka, Bangladesh**, available for **Remote work**.
 
 ---
 
@@ -39,35 +36,25 @@ I build **scalable, high-performance web applications** with clean architecture,
 ### Frontend
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>
   <b>JavaScript</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/>
   <b>TypeScript</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/>
   <b>React</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br/>
   <b>Next.js</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>
   <b>Tailwind CSS</b>
-</td>
-</tr>
-</table>
-
-### State Management
-<table>
-<tr>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/><br/>
-  <b>Redux Toolkit</b>
 </td>
 </tr>
 </table>
@@ -75,21 +62,25 @@ I build **scalable, high-performance web applications** with clean architecture,
 ### Backend & Databases
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br/>
   <b>Node.js</b>
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/><br/>
-  <b>Express.js</b>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="40"/><br/>
+  <b>Fastify</b>
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br/>
-  <b>MongoDB</b>
-</td>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br/>
   <b>PostgreSQL</b>
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"/><br/>
+  <b>Prisma</b>
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br/>
+  <b>MongoDB</b>
 </td>
 </tr>
 </table>
@@ -97,15 +88,19 @@ I build **scalable, high-performance web applications** with clean architecture,
 ### DevOps & Tools
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>
+  <b>AWS</b>
+</td>
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br/>
   <b>Docker</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br/>
   <b>Git</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br/>
   <b>GitHub</b>
 </td>
@@ -114,19 +109,19 @@ I build **scalable, high-performance web applications** with clean architecture,
 
 ---
 
-## 🚀 Projects
-🔗 **https://ashrafulislam.netlify.app/**  
-Clean, production-ready real-world applications.
+## 🚀 Featured Projects
 
----
+Here are some of the production-grade platforms I've built:
 
-## ✍️ Writing
-🔗 **https://medium.com/@contact.ashraful1**
+*   **[ByShelp (Cloud ERP)](https://byshelp.com)** - Multi-tenant SaaS platform for inventory, AI forecasting, and automated billing. *(Founder & Full-Stack Engineer)*
+*   **[Wedly (Matrimonial Platform)](https://wedly.life)** - Real-time platform serving 50k+ active profiles with WebSockets and Jitsi Video Calls. *(Founding Frontend Engineer)*
+*   **[MadMind Digital Agency](https://madmind.tech)** - Official website for my digital agency. *(Founder)*
+*   **[Heaven Pre Cadet Academy](https://heavenpca.com)** - Educational portal with dynamic notice boards and automated results. *(Full-Stack Engineer)*
 
 ---
 
 ## 📄 Resume
-📄 https://drive.google.com/file/d/1GJQ6Y7NC1Skc0VuRxPTGq0SSConU6cXY/view
+📄 [**Download My Latest Resume**](https://drive.google.com/file/d/1GJQ6Y7NC1Skc0VuRxPTGq0SSConU6cXY/view)
 
 ---
 
@@ -145,7 +140,6 @@ Clean, production-ready real-world applications.
 </td>
 </tr>
 </table>
-
 
 ---
 
