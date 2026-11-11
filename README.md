@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Ashraful Islam</h1>
 <h3 align="center">
   Senior Frontend & Full-Stack Engineer <br/>
-  React • Next.js • TypeScript • Express JS • Fastify • PostgreSQL
+  React • Next.js • TypeScript • Express JS • Fastify • PostgreSQL • React Native
 </h3>
 
 <p align="center">
