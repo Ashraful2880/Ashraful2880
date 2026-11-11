@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm MD Ashraful Islam</h1>
 <h3 align="center">
   Senior Frontend & Full-Stack Engineer <br/>
-  React • Next.js • TypeScript • Express JS • Fastify • PostgreSQL
+  React • Next.js • TypeScript • Fastify • PostgreSQL
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+MD+Ashraful+Islam;Senior+Frontend+%26+Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Expressjs+Fastify+%7C+PostgreSQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+MD+Ashraful+Islam;Senior+Frontend+%26+Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Fastify+%7C+PostgreSQL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -67,6 +67,10 @@ I’m a **Senior Frontend & Full-Stack Engineer** with 4+ years of experience bu
 <td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br/>
   <b>Node.js</b>
+</td>
+<td align="center" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/><br/>
+  <b>Express.js</b>
 </td>
 <td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="40"/><br/>
