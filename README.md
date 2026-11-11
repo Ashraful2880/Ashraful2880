@@ -89,7 +89,7 @@ I’m a **Senior Frontend & Full-Stack Engineer** with 4+ years of experience bu
   <b>MongoDB</b>
 </td>
 <td align="center" width="100">
-  <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" width="40"/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="40"/><br/>
   <b>Mongoose</b>
 </td>
 </tr>
@@ -138,12 +138,11 @@ Here are some of the production-grade platforms I've built:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ashraful2880&show_icons=true&theme=default&hide_border=true" alt="Ashraful's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashraful2880&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ashraful2880&theme=default&hide_border=true" alt="GitHub Streak" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashraful2880&theme=default&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashraful2880&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
